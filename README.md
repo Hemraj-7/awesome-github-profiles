@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Awesome+GitHub+Profiles)](https://git.io/typing-svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -124,6 +123,7 @@
   <li><a href="#contribute" style="text-decoration: none; color: #4A90E2; transition: color 0.3s;">Contribute</a></li>
   <li><a href="#special-thanks" style="text-decoration: none; color: #4A90E2; transition: color 0.3s;">Special Thanks</a></li>
   <li><a href="#contact-information" style="text-decoration: none; color: #4A90E2; transition: color 0.3s;">Contact Information</a></li>
+  <li><a href="#changelog" style="text-decoration: none; color: #4A90E2; transition: color 0.3s;">Changelog</a></li>
 </ul>
 
 <h2 id="profiles">Profiles ✨</h2>
@@ -301,3 +301,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Changelog
+
+For a detailed history of changes, please refer to the [Changelog](changelog.md).
