@@ -22,6 +22,14 @@ Awesome-github-profiles/
 │   └── settings.json         # Settings for the project
 ├── assets/                   # Asset files
 ├── awesome-github-profiles/  # GitHub profiles showcase
+├── docs/                     # Documentation files
+│   ├── README.md             # Overview of the documentation structure
+│   ├── installation.md       # Installation and setup instructions
+│   ├── user-guide.md         # User guide and manual
+│   ├── api.md                # API documentation
+│   ├── faq.md                # Frequently asked questions
+│   ├── changelog.md          # Changelog and release notes
+│   └── architecture.md       # Architectural and design documentation
 ├── node_modules/             # Project dependencies
 │   ├── .bin                  # Executable files
 │   ├── @babel/               # Babel packages
@@ -89,7 +97,19 @@ Awesome-github-profiles/
 
 ```
 
+# Documentation 📚
 
+We have added a new `docs` directory to the root of the repository to provide comprehensive documentation for the project. The `docs` directory includes the following files:
+
+- `docs/README.md`: Overview of the documentation structure.
+- `docs/installation.md`: Installation and setup instructions.
+- `docs/user-guide.md`: User guide and manual.
+- `docs/api.md`: API documentation.
+- `docs/faq.md`: Frequently asked questions.
+- `docs/changelog.md`: Changelog and release notes.
+- `docs/architecture.md`: Architectural and design documentation.
+
+Please refer to these files for detailed information about the project.
 
 # First Pull Request ✨
 
